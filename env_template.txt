@@ -1,0 +1,9 @@
+# API Keys for ReAct Agent
+# Copy this content to a file named .env and fill in your actual API keys
+
+# Google API Key for Gemini
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Tavily API Key for search
+TAVILY_API_KEY=your_tavily_api_key_here
+
