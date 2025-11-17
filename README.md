@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReAct Agent with Multiple Tools - Streamlit UI
 
 This project implements a ReAct (Reasoning and Acting) agent with three tools: Search, Compare, and Analyze, with a Streamlit user interface.
@@ -61,3 +62,6 @@ The app will open in your default web browser at `http://localhost:8501`
 - `.env`: Environment variables (create from .env.example)
 - `requirements.txt`: Python dependencies
 
+=======
+# HW4_Problem3
+>>>>>>> 70fa12335a7f25deb5aa3bfc8a15f01e241cbece
